@@ -1,10 +1,12 @@
 <h1 align="center">Oi 👋, eu sou Lucas</h1>
 <h3 align="center">Desenvolvedor backend</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhqaHl6ODZoOHR1cmtzcmpucW1qZjcxcWg0bXVuOTlxdTd0M21iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<div  align="left">
 - 🌱 Atualmente estou aprendendo **.NET, React**
 
 - 📫 E-mail **lucasvinilima15@gmail.com**
+  
+</div>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
