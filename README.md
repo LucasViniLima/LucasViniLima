@@ -1,21 +1,30 @@
 <h1 align="center">Oi 👋, eu sou Lucas</h1>
-<h3 align="center">Desenvolvedor backend</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhqaHl6ODZoOHR1cmtzcmpucW1qZjcxcWg0bXVuOTlxdTd0M21iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-<div  align="left">
-- 🌱 Atualmente estou aprendendo <strong>.NET</strong> e <strong>React</strong>
-
-- 📫 E-mail **lucasvinilima15@gmail.com**
-  
+<br>
+<div  align="center">
+	<p>🌱 Atualmente estou aprendendo <strong>.NET</strong> e <strong>React</strong></p>
+  <p>📫 E-mail <strong>lucasvinilima15@gmail.com</strong></p>
 </div>
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucas-lima15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-lima15" height="30" width="40" /></a>
-<a href="https://instagram.com/lucaslimadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucaslimadev" height="30" width="40" /></a>
-</p>
-
-<p><img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-lima-developer&show_icons=true&locale=pt-br&layout=compact" alt="" /></p>
-
-<p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=lucas-lima-developer&show_icons=true&locale=pt-br" alt="" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-lima-developer&" alt="lucas-lima-developer" /></p>
+<br>
+<div align="center">
+	<h3>Tecnologias</h3>
+	<p><img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,express" alt="lucas-lima-developer" /></p>
+	<p><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="lucas-lima-developer" /></p>
+	<p><img src="https://skillicons.dev/icons?i=react,bootstrap" alt="lucas-lima-developer" /></p>
+</div>
+<br>
+<br>
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+    <p>
+			&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-lima-developer&show_icons=true&locale=pt-br&layout=compact" alt="" style="width: 350px;" />
+    	&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=lucas-lima-developer&show_icons=true&locale=pt-br" alt="" style="width: 400px;" />
+		</p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-lima-developer&" alt="lucas-lima-developer" /></p>
+</div>
+<br>
+<div align="center">
+	<h3>Conecte-se comigo:</h3>
+	<p>
+		<a href="https://linkedin.com/in/lucas-lima15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-lima15" height="30" width="40" /></a>
+		<a href="https://instagram.com/lucaslimadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucaslimadev" height="30" width="40" /></a>
+	</p>
+</div>
