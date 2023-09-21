@@ -14,8 +14,8 @@
 <a href="https://instagram.com/lucaslimadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucaslimadev" height="30" width="40" /></a>
 </p>
 
-<p><img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasvinilima&show_icons=true&locale=pt-br&layout=compact" alt="lucasvinilima" /></p>
+<p><img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasvinilima&show_icons=true&locale=pt-br&layout=compact" alt="" /></p>
 
-<p><img align="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvinilima&locale=pt-br" alt="lucasvinilima" /></p>
+<p><img align="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvinilima&locale=pt-br" alt="" /></p>
 
-<p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=lucasvinilima&show_icons=true&locale=pt-br" alt="lucasvinilima" /></p>
+<p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=lucasvinilima&show_icons=true&locale=pt-br" alt="" /></p>
