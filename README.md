@@ -16,9 +16,9 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
     <p>
 			&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-lima-developer&show_icons=true&locale=pt-br&layout=compact" alt="" style="width: 350px;" />
-    	&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=lucas-lima-developer&show_icons=true&locale=pt-br" alt="" style="width: 393px;" />
-		</p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-lima-developer&" alt="lucas-lima-developer" /></p>
+    	&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=lucas-lima-developer&show_icons=true&locale=pt-br&rank_icon=percentile&include_all_commits=true&hide_title=true" style="width: 460px;" alt=""/>
+    </p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-lima-developer&locale=pt-br" alt="lucas-lima-developer" /></p>
 </div>
 <br>
 <div align="center">
