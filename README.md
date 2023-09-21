@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor backend</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhqaHl6ODZoOHR1cmtzcmpucW1qZjcxcWg0bXVuOTlxdTd0M21iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <div  align="left">
-- 🌱 Atualmente estou aprendendo <strong>.NET</strong>, <strong>React</strong>
+- 🌱 Atualmente estou aprendendo <strong>.NET</strong> e <strong>React</strong>
 
 - 📫 E-mail **lucasvinilima15@gmail.com**
   
