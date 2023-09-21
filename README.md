@@ -16,6 +16,6 @@
 
 <p><img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-lima-developer&show_icons=true&locale=pt-br&layout=compact" alt="" /></p>
 
-<p><img align="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-lima-developer&locale=pt-br" alt="" /></p>
-
 <p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=lucas-lima-developer&show_icons=true&locale=pt-br" alt="" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-lima-developer&" alt="lucas-lima-developer" /></p>
