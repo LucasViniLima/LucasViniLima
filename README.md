@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Lucas</h1>
+<h1 align="center">Oi, eu sou Lucas</h1>
 <br>
 <div  align="center">
 	<p>🌱 Atualmente estou aprendendo <strong>.NET</strong> e <strong>React</strong></p>
