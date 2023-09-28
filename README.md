@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou Lucas</h1>
 <br>
 <div  align="center">
-	<p>🌱 Atualmente estou aprendendo <strong>.NET</strong> e <strong>React</strong></p>
+	<p>🌱 Atualmente estou aprendendo <strong>.NET</strong> e <strong>Vue</strong></p>
   <p>📫 E-mail <strong>lucasvinilima15@gmail.com</strong></p>
 </div>
 <br>
@@ -9,7 +9,7 @@
 	<h3>Tecnologias</h3>
 	<p><img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,express" alt="lucas-lima-developer" /></p>
 	<p><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="lucas-lima-developer" /></p>
-	<p><img src="https://skillicons.dev/icons?i=react,bootstrap" alt="lucas-lima-developer" /></p>
+	<p><img src="https://skillicons.dev/icons?i=vue,bootstrap" alt="lucas-lima-developer" /></p>
 </div>
 <br>
 <br>
