@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou Lucas</h1>
 <br>
 <div  align="center">
-	<p>🌱 Atualmente estou aprendendo <strong>.NET</strong>, <strong>Vue</strong> e <strong>Python</strong></p>
+	<p>🌱 Atualmente estou aprendendo <strong>.NET</strong> e <strong>Vue</strong></p>
   <p>📫 E-mail <strong>lucasvinilima15@gmail.com</strong></p>
 </div>
 <br>
