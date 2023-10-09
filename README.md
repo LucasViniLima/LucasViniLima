@@ -14,7 +14,7 @@ Olá! Meu nome é Lucas e sou um estudante de Ciências da Computação em Salva
 
 ### Projetos Destacados
 
-- [API Lista de Tarefas](https://github.com/lucas-lima-developer/ListaDeTarefas) (🏗️ Em construção) - Uma simples API que utiliza arquitetura limpa e padrão CQRS.
+- [API Lista de Tarefas](https://github.com/lucas-lima-developer/ListaDeTarefas) (🏗️ Em construção) - Uma simples API ASP.NET core 7 que utiliza arquitetura limpa e padrão CQRS.
 - [CleanArchitecture](https://github.com/lucas-lima-developer/CleanArchitecture) - Projeto utilizado para estudar melhores práticas de arquitetura limpa e CQRS.
 
 ## Objetivos
