@@ -32,3 +32,10 @@
 		<a href="https://instagram.com/lucaslimadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucaslimadev" height="30" width="40" /></a>
 	</p>
 </div>
+
+<div align="center">
+	<h3>Conecte-se comigo:</h3>
+	<p>
+		<img src="https://komarev.com/ghpvc/?username=lucas-lima-developer" />
+	</p>
+</div>
