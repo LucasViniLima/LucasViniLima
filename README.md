@@ -12,7 +12,7 @@ Olá! Meu nome é Lucas e sou um estudante de Ciências da Computação em Salva
 - **Frontend:** HTML, CSS, Boostrap, Vue.js
 - **Backend:** .NET, ASP.NET core, Node.js, Laravel
 
-### Projetos Destacados
+## Projetos Destacados
 
 - [API Lista de Tarefas](https://github.com/lucas-lima-developer/ListaDeTarefas) (🏗️ Em construção) - Uma simples API ASP.NET core 7 que utiliza arquitetura limpa e padrão CQRS.
 - [CleanArchitecture](https://github.com/lucas-lima-developer/CleanArchitecture) - Projeto utilizado para estudar melhores práticas de arquitetura limpa e CQRS.
