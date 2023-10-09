@@ -1,5 +1,3 @@
-<p>Olá! Meu nome é Lucas e sou um estudante de Ciências da Computação em Salvador, Bahia. Atualmente estou no último semestre da faculdade e estou em busca de uma vaga na área de desenvolvimento.</p>
-
 <h2>Sobre Mim</h2>
 
 <ul>
