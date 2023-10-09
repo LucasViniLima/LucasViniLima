@@ -30,6 +30,6 @@ Atualmente, estou focado em concluir a faculdade e conseguir uma vaga na área d
 Fique à vontade para explorar meus repositórios e projetos. Adoro conversar sobre tecnologia, filosofia e qualquer outro tópico interessante. Vamos trocar ideias!
 
 ---
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=lucas-lima-developer&show_icons=true&locale=pt-br&include_all_commits=true&hide_title=true&theme=dark)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=lucas-lima-developer&show_icons=true&locale=pt-br&include_all_commits=true&theme=dark)
 
 [![Estatísticas de Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucas-lima-developer&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
