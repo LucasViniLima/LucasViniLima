@@ -34,7 +34,6 @@
 </div>
 
 <div align="center">
-	<h3>Conecte-se comigo:</h3>
 	<p>
 		<img src="https://komarev.com/ghpvc/?username=lucas-lima-developer" />
 	</p>
