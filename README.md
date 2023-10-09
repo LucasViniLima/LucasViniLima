@@ -1,12 +1,12 @@
 Olá! Meu nome é Lucas e sou um estudante de Ciências da Computação em Salvador, Bahia. Atualmente estou no último semestre da faculdade e estou em busca de uma vaga na área de desenvolvimento.
 
-### Sobre Mim
+## Sobre Mim
 
 - 🚀 Atualmente estudando .NET e Vue
 - 🎓 Último semestre de Ciências da Computação
 - 💼 Experiência de 2 anos em estágios utilizando Laravel, Vue e Node.js, com inclinação para o backend
 
-### Habilidades e Tecnologias
+## Habilidades e Tecnologias
 
 - **Linguagens:** C#, JavaScript, PHP
 - **Frontend:** HTML, CSS, Boostrap, Vue.js
@@ -17,11 +17,11 @@ Olá! Meu nome é Lucas e sou um estudante de Ciências da Computação em Salva
 - [API Lista de Tarefas](https://github.com/lucas-lima-developer/ListaDeTarefas) (🏗️ Em construção) - Uma simples API que utiliza arquitetura limpa e padrão CQRS.
 - [CleanArchitecture](https://github.com/lucas-lima-developer/CleanArchitecture) - Projeto utilizado para estudar melhores práticas de arquitetura limpa e CQRS.
 
-### Objetivos
+## Objetivos
 
 Atualmente, estou focado em concluir a faculdade e conseguir uma vaga na área de desenvolvimento. Estou sempre em busca de desafios e oportunidades para aprender e crescer profissionalmente.
 
-### Contato
+## Contato
 
 - 💼 [LinkedIn](https://linkedin.com/in/lucas-lima15)
 - 📷 [Instagram](https://instagram.com/lucaslimadev)
