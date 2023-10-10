@@ -39,4 +39,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucas-lima-developer&show_icons=true&locale=pt-br&include_all_commits=true&hide_title=true&theme=dark" alt="Estatísticas GitHub">
 
-[![Estatísticas de Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucas-lima-developer&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Estatísticas de Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucas-lima-developer&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=lucas-lima-developer&theme=dark)
