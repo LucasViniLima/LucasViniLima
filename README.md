@@ -16,9 +16,9 @@
 
 <h2>Projetos Destacados</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-lima-developer&repo=ListaDeTarefas&theme=dark)](https://github.com/lucas-lima-developer/ListaDeTarefas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-lima-developer&repo=CleanArchitecture&theme=dark)](https://github.com/lucas-lima-developer/CleanArchitecture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-lima-developer&repo=OnionArchitecture&theme=dark)](https://github.com/lucas-lima-developer/OnionArchitecture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-lima-developer&repo=ListaDeTarefas&theme=dark)](https://github.com/lucas-lima-developer/ListaDeTarefas)
 
 
 <h2>Objetivos</h2>
