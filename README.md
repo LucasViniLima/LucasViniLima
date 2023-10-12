@@ -16,10 +16,10 @@
 
 <h2>Projetos Destacados</h2>
 
-<ul>
-  <li><a href="https://github.com/lucas-lima-developer/ListaDeTarefas">API Lista de Tarefas</a> - Uma simples API que utiliza arquitetura limpa e padrão CQRS.</li>
-  <li><a href="https://github.com/lucas-lima-developer/CleanArchitecture">CleanArchitecture</a> - Projeto utilizado para estudar melhores práticas de arquitetura limpa e CQRS.</li>
-</ul>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-lima-developer&repo=ListaDeTarefas&theme=dark)](https://github.com/lucas-lima-developer/ListaDeTarefas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-lima-developer&repo=CleanArchitecture&theme=dark)](https://github.com/lucas-lima-developer/CleanArchitecture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-lima-developer&repo=OnionArchitecture&theme=dark)](https://github.com/lucas-lima-developer/OnionArchitecture)
+
 
 <h2>Objetivos</h2>
 
