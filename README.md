@@ -22,9 +22,9 @@ Atualmente, estou focado em concluir a faculdade e conseguir uma vaga na área d
 
 ## Contato
 
-- 💼 <a href="https://www.linkedin.com/in/lucaslimadeveloper/">LinkedIn</a></li>
-- 📷 <a href="https://instagram.com/lucaslimadev">Instagram</a></li>
 - ✉️ Se quiser entrar em contato, envie um e-mail para: lucasvinilima15@gmail.com
+- <a href="https://www.linkedin.com/in/lucaslimadeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-lima15" height="25" width="20" /></a>
+- <a href="https://instagram.com/lucaslimadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucaslimadev" height="25" width="20" /></a>
 
 Fique à vontade para explorar meus repositórios e projetos. Adoro conversar sobre tecnologia, filosofia e qualquer outro tópico interessante. Vamos trocar ideias!
 
