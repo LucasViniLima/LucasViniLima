@@ -22,7 +22,7 @@ Atualmente, estou focado em concluir a faculdade e conseguir uma vaga na área d
 
 ## Contato
 
-- 💼 <a href="https://linkedin.com/in/lucas-lima15">LinkedIn</a></li>
+- 💼 <a href="https://www.linkedin.com/in/lucaslimadeveloper/">LinkedIn</a></li>
 - 📷 <a href="https://instagram.com/lucaslimadev">Instagram</a></li>
 - ✉️ Se quiser entrar em contato, envie um e-mail para: lucasvinilima15@gmail.com
 
