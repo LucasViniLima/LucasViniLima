@@ -1,7 +1,7 @@
 <h2>Sobre Mim</h2>
 
 - 🚀 Atualmente estudando .NET e Vue</li>
--🎓 Último semestre de Ciências da Computação</li>
+- 🎓 Último semestre de Ciências da Computação</li>
 - 💼 Experiência de 2 anos em estágios utilizando Laravel, Vue e Node.js, com inclinação para o backend</li>
 
 ## Habilidades e Tecnologias
