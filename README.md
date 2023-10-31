@@ -8,7 +8,7 @@
 
 - **Linguagens** C#, JavaScript, PHP</li>
 - **Frontend**: HTML, CSS, Boostrap, Vue.js
-- **Backend**: .NET, ASP.NET core, Node.js, Laravel
+- **Backend**: .NET, ASP.NET, Node, Laravel
 
 ## Objetivo
 
