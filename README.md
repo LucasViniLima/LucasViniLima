@@ -1,8 +1,8 @@
 <h2>Sobre Mim</h2>
 
 - 🚀 Atualmente estudando Next.js, TypeScript e outros frameworks Javascript</li>
-- 🎓 Último semestre de Ciências da Computação</li>
-- 💼 Experiência de 2 anos em estágios utilizando Laravel, Vue e Node.js</li>
+- 🎓 Bacharelado em Ciências da Computação</li>
+- 💼 Experiência de 2 anos utilizando Laravel, Vue e Node.js</li>
 
 ## Habilidades e Tecnologias
 
